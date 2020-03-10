@@ -1,1 +1,1 @@
-worker:python bootstrap.py
+worker:python run.py
